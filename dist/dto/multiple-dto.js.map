@@ -1,1 +1,0 @@
-{"version":3,"file":"multiple-dto.js","sourceRoot":"","sources":["../../src/dto/multiple-dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAG9C,MAAa,eAAe;CAS3B;AAPG;IADC,qBAAW,CAAC,EAAC,IAAI,EAAC,QAAQ,EAAC,MAAM,EAAC,QAAQ,EAAC,CAAC;;kDAC3B;AAGlB;IADC,qBAAW,CAAC,EAAC,OAAO,EAAC,KAAK,EAAC,CAAC;;iDACd;AAGf;IADC,qBAAW,CAAC,EAAC,OAAO,EAAC,UAAU,EAAC,CAAC;;iDACnB;AARnB,0CASC"}
