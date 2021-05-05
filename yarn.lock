@@ -2638,10 +2638,10 @@ fastify-error@^0.3.0:
   resolved "https://registry.yarnpkg.com/fastify-error/-/fastify-error-0.3.1.tgz#8eb993e15e3cf57f0357fc452af9290f1c1278d2"
   integrity sha512-oCfpcsDndgnDVgiI7bwFKAun2dO+4h84vBlkWsWnz/OUK9Reff5UFoFl241xTiLeHWX/vU9zkDVXqYUxjOwHcQ==
 
-fastify-file-interceptor@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/fastify-file-interceptor/-/fastify-file-interceptor-1.0.2.tgz#f6a95d6351d8c6d1237da8c56d7574bb9d88f89c"
-  integrity sha512-oxs99c9qbGgAetblBqtfu0u9kL/3BrfT3n3ssiWHRFURIQiL+ho2kTL1/7Utlpno5OG2fyaRSaqmpYB0CvXEOQ==
+fastify-file-interceptor@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/fastify-file-interceptor/-/fastify-file-interceptor-1.0.4.tgz#fafe8f4a91dfeed88febcb03e0648ffac9acfda8"
+  integrity sha512-BI8ZP8Bk0CAzuwMf+B0bnnXF1RVVESx1KMwWhePRzp0ZoBtFS44M2WOhpzq0tUWMSH58x6AlhcOoDsWd3zQ4vA==
   dependencies:
     fastify-multer "^2.0.2"
     multer "^1.4.2"

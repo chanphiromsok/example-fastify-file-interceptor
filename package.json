@@ -28,7 +28,7 @@
     "@nestjs/swagger": "^4.8.0",
     "@types/express-serve-static-core": "^4.17.19",
     "fastify-file": "^1.0.0",
-    "fastify-file-interceptor": "^1.0.2",
+    "fastify-file-interceptor": "^1.0.4",
     "fastify-helmet": "^5.3.1",
     "fastify-multer": "^2.0.2",
     "fastify-swagger": "^4.7.0",

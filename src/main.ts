@@ -4,7 +4,7 @@ import {
   NestFastifyApplication,
 } from '@nestjs/platform-fastify';
 import { AppModule } from './app.module';
-import { contentParser } from 'fastify-file-interceptor';
+import { contentParser } from 'fastify-multer';
 import 'reflect-metadata';
 import { join } from 'path';
 import helmet from 'fastify-helmet';
@@ -40,6 +40,6 @@ async function bootstrap() {
     SwaggerModule.createDocument(app, swaggerDocument),
   );
 
-  console.log(`APP IS RUNNING ON PORT ${await app.getUrl()}`);
+  console.log(`APP IS RUNNING ON PORT ${await app.getUrl()}/api`);
 }
 bootstrap();
