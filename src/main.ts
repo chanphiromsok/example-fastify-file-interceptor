@@ -33,7 +33,9 @@ async function bootstrap() {
     },
   });
   app.register(contentParser); // yarn add fastify-multer
-  app.useStaticAssets({ root: join(__dirname, '../../example') }); // yarn add fastify-static
+  app.useStaticAssets({
+    root: join(__dirname, '../../example-fastify-file-interceptor'),
+  }); // yarn add fastify-static
   SwaggerModule.setup(
     'api',
     app,
